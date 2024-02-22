@@ -1,0 +1,20 @@
+//Revision 3
+//NOTE
+// Default template for spectre
+// Note:
+//      Please remember to replace Top Cell Library, Cell, and View
+//      fields with the actual names used by your design.
+//END_NOTE
+
+config DIFF_AMP_STAB_test;
+design PAUE_VLSI_KS_PROJEKT.DIFF_AMP_STAB_test:schematic;
+liblist myLib;
+
+viewlist spectre, cmos_sch, \cmos.sch , schematic, veriloga, ahdl, pspice, dspf;
+stoplist spectre;
+
+
+inst (PAUE_VLSI_KS_PROJEKT.DIFF_AMP_STAB_test:schematic).I2 binding :av_extracted;
+
+
+endconfig

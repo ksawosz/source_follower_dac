@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Fri Feb  2 22:44:37 2024 
+Best design point: 1
+Design specs: 
+	PAUE_VLSI_KS_PROJEKT_DIFF_AMP_STAB_test_1_1	corner	Nominal - 
+	Phase Margin		63.89
+	bandwidth(VF("/OUT") 3 "low")		15.65M
+Design parameters: 
+	CONFIG/PAUE_VLSI_KS_PROJEKT/DIFF_AMP_STAB		av_extracted
+
+Received stop signal from user. 
+Interactive.192 completed. 
+Current time: Fri Feb  2 22:44:54 2024 

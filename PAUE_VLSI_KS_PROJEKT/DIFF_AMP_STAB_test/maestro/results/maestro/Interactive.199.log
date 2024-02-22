@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Fri Feb  2 22:54:22 2024 
+Best design point: 1
+Design specs: 
+	PAUE_VLSI_KS_PROJEKT_DIFF_AMP_STAB_test_1_1	corner	Nominal - 
+Design parameters: 
+	CONFIG/PAUE_VLSI_KS_PROJEKT/DIFF_AMP_STAB		av_extracted
+
+Interactive.199
+Number of points completed: 8
+Number of simulation errors: 0
+Interactive.199 completed. 
+Current time: Fri Feb  2 22:55:08 2024 
